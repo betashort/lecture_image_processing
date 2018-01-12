@@ -1,17 +1,15 @@
-% ‰Û‘è‚R@è‡’lˆ—
-% è‡’l‚ð4ƒpƒ^[ƒ“Ý’è‚µ,è‡’lˆ—‚½‰æ‘œ‚ðŽ¦‚¹D
-% ‰º‹L‚ÍƒTƒ“ƒvƒ‹ƒvƒƒOƒ‰ƒ€‚Å‚ ‚éD
-% ‰Û‘èì¬‚É‚ ‚½‚Á‚Ä‚ÍuLennavˆÈŠO‚Ì‰æ‘œ‚ð—p‚¢‚æD
+% èª²é¡Œï¼“ã€€é–¾å€¤å‡¦ç†
+% é–¾å€¤ã‚’4ãƒ‘ã‚¿ãƒ¼ãƒ³è¨­å®šã—,é–¾å€¤å‡¦ç†ãŸç”»åƒã‚’ç¤ºã›ï¼Ž
+% ä¸‹è¨˜ã¯ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã§ã‚ã‚‹ï¼Ž
+clear; % å¤‰æ•°ã®ã‚ªãƒ¼ãƒ«ã‚¯ãƒªã‚¢
 
-clear; % •Ï”‚ÌƒI[ƒ‹ƒNƒŠƒA
+ORG=imread('AMEMAN17826009_TP_V4.jpg'); % ç”»åƒã®å…¥åŠ›
+ORG= rgb2gray(ORG); %ã€€ã‚«ãƒ©ãƒ¼ç”»åƒã‚’ç™½é»’æ¿ƒæ·¡ç”»åƒã¸å¤‰æ›
 
-ORG=imread('AMEMAN17826009_TP_V4.jpg'); % Œ´‰æ‘œ‚Ì“ü—Í
-ORG= rgb2gray(ORG); % ƒJƒ‰[‰æ‘œ‚ð”’•”Z’W‰æ‘œ‚Ö•ÏŠ·
-
-imagesc(ORG); colormap(gray); colorbar; % ‰æ‘œ‚Ì•\Ž¦
+imagesc(ORG); colormap(gray); colorbar; % ç”»åƒã®è¡¨ç¤º
 pause;
 
-IMG = ORG > 64; % ‹P“x’l‚ª64ˆÈã‚Ì‰æ‘f‚ð1C‚»‚Ì‘¼‚ð0‚É•ÏŠ·
+IMG = ORG > 64; % è¼åº¦å€¤64ä»¥ä¸Šã®ç”»åƒã‚’1, ãã®ä»–ã‚’0ã«å¤‰åŒ–
 imagesc(IMG); colormap(gray); colorbar;
 pause;
 
@@ -25,4 +23,3 @@ pause;
 
 IMG = ORG > 192;
 imagesc(IMG); colormap(gray); colorbar;
-
