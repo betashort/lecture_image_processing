@@ -1,7 +1,7 @@
 # 課題１
 
-原画像を犬の画像とする．
-[怠惰な秋田犬](https://www.pakutaso.com/20170833240post-12987.html)
+原画像を犬の画像
+[怠惰な秋田犬](https://www.pakutaso.com/20170833240post-12987.html)とする。
 この画像は縦533画像，横800画素によるディジタルカラー画像である．
 
 ORG=imread('AMEMAN17826009_TP_V4.jpg'); % 原画像の入力  
