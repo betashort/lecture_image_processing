@@ -1,4 +1,4 @@
-#課題3　閾値処理
+#　課題3　閾値処理
 
 ORG=imread('AMEMAN17826009_TP_V4.jpg'); % 画像の入力  
 ORG= rgb2gray(ORG); %　カラー画像を白黒濃淡画像へ変換  
@@ -24,3 +24,6 @@ IMG = ORG > 128;
 
 IMG = ORG > 192;  
 ![画像](https://github.com/betashort/lecture_image_processing/blob/master/kadai3_image/kadai3_4.jpg)
+
+閾値が64では、被写体の輪郭がはっきりしていない。閾値が96、128では64と比べ、輪郭がはっきりしていることがわかる。閾値が192では、輝度値0の範囲が多いため、輪郭がはっきりしない。　　
+このように、閾値によって画像の表現が変わることがわかる。　　
