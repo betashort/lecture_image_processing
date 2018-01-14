@@ -1,3 +1,14 @@
+課題
+![課題１](https://github.com/betashort/lecture_image_processing/blob/master/kadai1.md)
+![課題２](https://github.com/betashort/lecture_image_processing/blob/master/kadai2.md)
+![課題３](https://github.com/betashort/lecture_image_processing/blob/master/kadai3.md)
+![課題４](https://github.com/betashort/lecture_image_processing/blob/master/kadai4.md)
+![課題５](https://github.com/betashort/lecture_image_processing/blob/master/kadai5.md)
+![課題６](https://github.com/betashort/lecture_image_processing/blob/master/kadai6.md)
+![課題７](https://github.com/betashort/lecture_image_processing/blob/master/kadai7.md)
+![課題８](https://github.com/betashort/lecture_image_processing/blob/master/kadai8.md)
+![課題9](https://github.com/betashort/lecture_image_processing/blob/master/kadai9.md)
+![課題１０](https://github.com/betashort/lecture_image_processing/blob/master/kadai10.md)
 (参考)Matlab入門  
 http://www.ns.kogakuin.ac.jp/~ct13050/johogaku/2-2.matlab_getstart.pdf
 
@@ -6,11 +17,5 @@ https://github.com/mackhasegawa/lecture_image_processing/blob/master/kadai1.md
 
 
 フリー素材
-- https://www.pakutaso.com/ 
+- https://www.pakutaso.com/
 - フリー素材アイドル「MIKA☆RIKA」 http://mika-rika-free.jp/
-
-
-
-
-
-
