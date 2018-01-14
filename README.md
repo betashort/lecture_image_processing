@@ -9,6 +9,9 @@
 8.[課題８](https://github.com/betashort/lecture_image_processing/blob/master/kadai8.md)  
 9.[課題9](https://github.com/betashort/lecture_image_processing/blob/master/kadai9.md)  
 10.[課題１０](https://github.com/betashort/lecture_image_processing/blob/master/kadai10.md)  
+# 参考等  
+原画像を犬の画像
+[怠惰な秋田犬](https://www.pakutaso.com/20170833240post-12987.html)とする。  
 (参考)Matlab入門  
 http://www.ns.kogakuin.ac.jp/~ct13050/johogaku/2-2.matlab_getstart.pdf
 
