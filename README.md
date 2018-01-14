@@ -1,6 +1,6 @@
 課題
-![課題１](https://github.com/betashort/lecture_image_processing/blob/master/kadai1.md)
-![課題２](https://github.com/betashort/lecture_image_processing/blob/master/kadai2.md)
+![課題1](https://github.com/betashort/lecture_image_processing/blob/master/kadai1.md)  
+![課題2](https://github.com/betashort/lecture_image_processing/blob/master/kadai2.md)  
 ![課題３](https://github.com/betashort/lecture_image_processing/blob/master/kadai3.md)
 ![課題４](https://github.com/betashort/lecture_image_processing/blob/master/kadai4.md)
 ![課題５](https://github.com/betashort/lecture_image_processing/blob/master/kadai5.md)
